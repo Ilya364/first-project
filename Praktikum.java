@@ -1,5 +1,5 @@
 public class Praktikum {
     public static void main(String[] args) {
-	//empty class
+	System.out.println("Hello world!");
     }
 }
